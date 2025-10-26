@@ -41,7 +41,8 @@ A simple and elegant **Weather App** built using **HTML, CSS, and JavaScript** t
 
 ## 🌐 Live Demo
 
-👉 **[View Live on GitHub Pages](https://mandeepkaur.github.io/weatherapp/)**
+👉 [View Live on GitHub Pages](https://mandeepkaur16.github.io/Weatherapp/)
+
 
 ---
 
